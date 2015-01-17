@@ -125,4 +125,3 @@ xyplot(avgStep2$steps ~ avgStep2$interval|avgStep2$day, data = dataFilled,
 ```
 
 ![plot of chunk chunk 5.2](figure/chunk 5.2-1.png) 
-opts_chunk$set(cache=TRUE, cache.path = 'DocumentName_cache/', fig.path='figure/')

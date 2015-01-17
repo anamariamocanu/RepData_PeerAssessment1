@@ -99,4 +99,3 @@ xyplot(avgStep2$steps ~ avgStep2$interval|avgStep2$day, data = dataFilled,
      main="Average Steps per Day by Interval",xlab="Interval", ylab="Steps",
      layout=c(1,2), type="l")
 ```
-opts_chunk$set(cache=TRUE, cache.path = 'DocumentName_cache/', fig.path='figure/')
